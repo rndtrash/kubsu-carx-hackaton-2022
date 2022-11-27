@@ -10,7 +10,7 @@ Made with Unity 2022.
 
  1. Ivan Kuzmenko - [@rndtrash](https://github.com/rndtrash) - leader, programmer
  2. Evgeniy Tataryan - [@keisei1305](https://github.com/keisei1305) - programmer
- 3. Anastasiya Frolova - artist
+ 3. Anastasiya Frolova - [https://vk.com/club170195832](https://vk.com/club170195832) - artist
  4. Alexander Gontarev - artist
 
 The work everyone did was roughly equal, so I see no point in noting who made what :)
