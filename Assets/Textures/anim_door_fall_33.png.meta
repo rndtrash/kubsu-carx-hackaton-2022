@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: bba04a6db6cf1c6b7a1a867d75de6a73
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_door_fall_33_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 37
+      alignment: 9
+      pivot: {x: 0.9496333, y: 0.15251213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38bf0ede9fd6a7497807f3aa4d4ebe
+      internalID: 642196735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 23
+        height: 37
+      alignment: 9
+      pivot: {x: 0.93748075, y: 0.13740373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffcd37d266ea82c0879f7971cd53f4b
+      internalID: -1338067042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.91925263, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae088d848054a8178500ed9fee53d3b
+      internalID: 1302837253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.884315, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233b3ee7a1ce9f44fb71aa9d38e07a0f
+      internalID: 1956023328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.90178394, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894eb397defca81293043191e4df295
+      internalID: -1453002486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5147115, y: 0.17517418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b345cb83dbf49974f8af6867260a9215
+      internalID: 85766579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5310567, y: 0.19028236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb3eeb879967860a89b4974a6b22ab5
+      internalID: 103781207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.41265678, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa961ae34af9c9e80032e7bdd80943
+      internalID: 760591634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 15
+        height: 37
+      alignment: 9
+      pivot: {x: 0.40683392, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b748dc734899b1b70ddfd447b39f6
+      internalID: -245714205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 13
+        height: 37
+      alignment: 9
+      pivot: {x: 0.32800058, y: 0.1676201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef21aa816e1951f4bb6a86c6fdc1543
+      internalID: -2106395391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.23521022, y: 0.17517418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea6c07bf70cf9e839fcfdb136f8b51a
+      internalID: -1954272738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24844971, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e4d57e7848350d9cbe70e6e7132d9
+      internalID: 551696734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.15838878, y: 0.17517418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e313f4b14fd88838f260d92278f181
+      internalID: -764889591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.17391628, y: 0.1676201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2a91ed808b3d93684f305935751c17
+      internalID: -2109402983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.28704834, y: 0.1676201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51cd26e72fb66c1bf804c452230473
+      internalID: 1120443151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.30035692, y: 0.17517418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf0b5bf6711dc238c20a4686be7425
+      internalID: -1732789543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.31832582, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5810655656d4c8bcb571a5df140cc
+      internalID: 1419920670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.26242524, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb044e6f8c965811877ec41a3838d8f
+      internalID: 1871697124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.20652619, y: 0.14495781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a75d86bc17139a10bb148d7295e4a44
+      internalID: 1795671200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 20
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24845123, y: 0.160066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab848952571ea1296b7e749034c042
+      internalID: 2000420013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_door_fall_33_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 21
+        height: 37
+      alignment: 9
+      pivot: {x: 0.21014856, y: 0.1676201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb5f49fc915618eaad3b329fe03964d
+      internalID: 1045195376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      anim_door_fall_33_1: -1338067042
+      anim_door_fall_33_6: 103781207
+      anim_door_fall_33_12: -764889591
+      anim_door_fall_33_3: 1956023328
+      anim_door_fall_33_5: 85766579
+      anim_door_fall_33_2: 1302837253
+      anim_door_fall_33_13: -2109402983
+      anim_door_fall_33_8: -245714205
+      anim_door_fall_33_10: -1954272738
+      anim_door_fall_33_16: 1419920670
+      anim_door_fall_33_14: 1120443151
+      anim_door_fall_33_20: 1045195376
+      anim_door_fall_33_17: 1871697124
+      anim_door_fall_33_19: 2000420013
+      anim_door_fall_33_15: -1732789543
+      anim_door_fall_33_0: 642196735
+      anim_door_fall_33_4: -1453002486
+      anim_door_fall_33_18: 1795671200
+      anim_door_fall_33_7: 760591634
+      anim_door_fall_33_9: -2106395391
+      anim_door_fall_33_11: 551696734
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
