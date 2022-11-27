@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Corkboard.unity
     guid: 9a79858ddfc7c0cb39007a8fd16f0a7d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 351f6df4aea53d6a6ba5376fb71e0735, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8066deeda26d3dc9ca255ced5f431d09, type: 2}
